@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="colorFloatieButtonText" />
+    <attr format="color" name="colorFloatieButtonBackground" />
+    <attr format="color" name="colorFloatieButtonStroke" />
+    <attr format="color" name="colorFloatieButtonRipple" />
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.uwuster.floatie">
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <!-- This is used to allow overlay permission and create windows shown on top of other apps -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+</manifest>

@@ -1,0 +1,1 @@
+/Users/uwustor/Desktop/uwuster/Floatie/sampleapp/buildSrc/build/classes/kotlin/main/Configs.class:/Users/uwustor/Desktop/uwuster/Floatie/sampleapp/buildSrc/build/classes/kotlin/main/Core.class:/Users/uwustor/Desktop/uwuster/Floatie/sampleapp/buildSrc/build/classes/kotlin/main/Tests.class
